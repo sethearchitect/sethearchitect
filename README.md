@@ -39,5 +39,5 @@
 </div>
 
 ### 🖋️ Articles
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- Dev.to:START -->
+<!-- Dev.to:END -->
