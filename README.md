@@ -40,6 +40,7 @@
 
 ### 🖋️ Articles
 <!-- Dev.to:START -->
+- [# A Learner’s Exploration of  pseudo elements 2 - Applications: Custom counters with ::before and ::after](https://dev.to/sethearchitect/-a-learners-exploration-of-pseudo-elements-2-applications-custom-counters-with-before-and-after-1poo)
 - [A Learner’s Exploration of Pseudo Elements &lpar;Intro&rpar;](https://dev.to/sethearchitect/a-learners-exploration-of-pseudo-elements-intro-5bid)
 - [A Learner&#39;s Exploration of CSS Grid &lpar;01&rpar;](https://dev.to/sethearchitect/a-beginners-exploration-of-css-grid-01-1h3)
 - [A Learner&#39;s Exploration of CSS Translate](https://dev.to/sethearchitect/a-learners-exploration-of-css-translate-508m)
